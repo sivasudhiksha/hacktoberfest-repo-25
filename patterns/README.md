@@ -1,4 +1,4 @@
-# Patterns (multi-language)
+# Patterns (Multi-language)
 
 This folder contains simple pattern printing examples implemented in multiple languages.
 Current pattern: centered pyramid of stars (n=5).
